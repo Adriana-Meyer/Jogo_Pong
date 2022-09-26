@@ -1,0 +1,27 @@
+body {
+    background-color: #000000;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 18px;
+}
+
+.tilulo__pagina {
+    color: #236daa;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h2{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+p{
+    color: #FFFFFF; 
+}
+
+.jogo__pong {
+    width: 610px;
+    height: 430px;
+}
